@@ -1,6 +1,6 @@
 {
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "features": {
-  }
+  },
   "postCreateCommand": "pip3 install --user -r requirements.txt",
 }
