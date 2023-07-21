@@ -1,7 +1,8 @@
 cltk
 git+https://github.com/cwf2/dices-client
 https://huggingface.co/Jacobo/grc_proiel_sm/resolve/main/grc_proiel_sm-any-py3-none-any.whl
-jupyter https://huggingface.co/latincy/la_core_web_sm/resolve/main/la_core_web_sm-any-py3-none-any.whl
+jupyter 
+https://huggingface.co/latincy/la_core_web_sm/resolve/main/la_core_web_sm-any-py3-none-any.whl
 matplotlib
 matplotlib-inline
 MyCapytain
